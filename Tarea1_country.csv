@@ -1,0 +1,217 @@
+country_code,country_income,country_continent
+ABW,High income,North America
+AFG,Low income,Asia
+AGO,Lower-middle income,Africa
+ALB,Upper-middle income,Europe
+AND,High income,Europe
+ARE,High income,Asia
+ARG,Upper-middle income,South America
+ARM,Upper-middle income,Asia
+ASM,Upper-middle income,Oceania
+ATG,High income,North America
+AUS,High income,Oceania
+AUT,High income,Europe
+AZE,Upper-middle income,Asia
+BDI,Low income,Africa
+BEL,High income,Europe
+BEN,Lower-middle income,Africa
+BFA,Low income,Africa
+BGD,Lower-middle income,Asia
+BGR,Upper-middle income,Europe
+BHR,High income,Asia
+BHS,High income,North America
+BIH,Upper-middle income,Europe
+BLR,Upper-middle income,Europe
+BLZ,Lower-middle income,North America
+BMU,High income,North America
+BOL,Lower-middle income,South America
+BRA,Upper-middle income,South America
+BRB,High income,North America
+BRN,High income,Asia
+BTN,Lower-middle income,Asia
+BWA,Upper-middle income,Africa
+CAF,Low income,Africa
+CAN,High income,North America
+CHE,High income,Europe
+CHL,High income,South America
+CHN,Upper-middle income,Asia
+CIV,Lower-middle income,Africa
+CMR,Lower-middle income,Africa
+COD,Low income,Africa
+COG,Lower-middle income,Africa
+COL,Upper-middle income,South America
+COM,Lower-middle income,Africa
+CPV,Lower-middle income,Africa
+CRI,Upper-middle income,North America
+CUB,Upper-middle income,North America
+CUW,High income,North America
+CYM,High income,North America
+CYP,High income,Asia
+CZE,High income,Europe
+DEU,High income,Europe
+DJI,Lower-middle income,Africa
+DMA,Upper-middle income,North America
+DNK,High income,Europe
+DOM,Upper-middle income,North America
+DZA,Lower-middle income,Africa
+ECU,Upper-middle income,South America
+EGY,Lower-middle income,Africa
+ERI,Low income,Africa
+ESP,High income,Europe
+EST,High income,Europe
+ETH,Low income,Africa
+FIN,High income,Europe
+FJI,Upper-middle income,Oceania
+FRA,High income,Europe
+FRO,High income,Europe
+FSM,Lower-middle income,Oceania
+GAB,Upper-middle income,Africa
+GBR,High income,Europe
+GEO,Upper-middle income,Asia
+GHA,Lower-middle income,Africa
+GIB,High income,Europe
+GIN,Low income,Africa
+GMB,Low income,Africa
+GNB,Low income,Africa
+GNQ,Upper-middle income,Africa
+GRC,High income,Europe
+GRD,Upper-middle income,North America
+GRL,High income,North America
+GTM,Upper-middle income,North America
+GUM,High income,Oceania
+GUY,Upper-middle income,South America
+HKG,High income,Asia
+HND,Lower-middle income,North America
+HRV,High income,Europe
+HTI,Lower-middle income,North America
+HUN,High income,Europe
+IDN,Lower-middle income,Asia
+IMN,High income,Europe
+IND,Lower-middle income,Asia
+IRL,High income,Europe
+IRN,Lower-middle income,Asia
+IRQ,Upper-middle income,Asia
+ISL,High income,Europe
+ISR,High income,Asia
+ITA,High income,Europe
+JAM,Upper-middle income,North America
+JOR,Upper-middle income,Asia
+JPN,High income,Asia
+KAZ,Upper-middle income,Asia
+KEN,Lower-middle income,Africa
+KGZ,Lower-middle income,Asia
+KHM,Lower-middle income,Asia
+KIR,Lower-middle income,Oceania
+KNA,High income,North America
+KOR,High income,Asia
+KWT,High income,Asia
+LAO,Lower-middle income,Asia
+LBN,Upper-middle income,Asia
+LBR,Low income,Africa
+LBY,Upper-middle income,Africa
+LCA,Upper-middle income,North America
+LIE,High income,Europe
+LKA,Lower-middle income,Asia
+LSO,Lower-middle income,Africa
+LTU,High income,Europe
+LUX,High income,Europe
+LVA,High income,Europe
+MAC,High income,Asia
+MAF,High income,North America
+MAR,Lower-middle income,Africa
+MCO,High income,Europe
+MDA,Upper-middle income,Europe
+MDG,Low income,Africa
+MDV,Upper-middle income,Asia
+MEX,Upper-middle income,North America
+MHL,Upper-middle income,Oceania
+MKD,Upper-middle income,Europe
+MLI,Low income,Africa
+MLT,High income,Europe
+MMR,Lower-middle income,Asia
+MNE,Upper-middle income,Europe
+MNG,Lower-middle income,Asia
+MNP,High income,Oceania
+MOZ,Low income,Africa
+MRT,Lower-middle income,Africa
+MUS,Upper-middle income,Africa
+MWI,Low income,Africa
+MYS,Upper-middle income,Asia
+MYT,Upper-middle income,Africa
+NAM,Upper-middle income,Africa
+NCL,High income,Oceania
+NER,Low income,Africa
+NGA,Lower-middle income,Africa
+NIC,Lower-middle income,North America
+NLD,High income,Europe
+NOR,High income,Europe
+NPL,Lower-middle income,Asia
+NRU,High income,Oceania
+NZL,High income,Oceania
+OMN,High income,Asia
+PAK,Lower-middle income,Asia
+PAN,Upper-middle income,North America
+PER,Upper-middle income,South America
+PHL,Lower-middle income,Asia
+PLW,High income,Oceania
+PNG,Lower-middle income,Oceania
+POL,High income,Europe
+PRI,High income,North America
+PRK,Low income,Asia
+PRT,High income,Europe
+PRY,Upper-middle income,South America
+PSE,Lower-middle income,Asia
+PYF,High income,Oceania
+QAT,High income,Asia
+ROU,Upper-middle income,Europe
+RUS,Upper-middle income,Europe
+RWA,Low income,Africa
+SAU,High income,Asia
+SDN,Low income,Africa
+SEN,Lower-middle income,Africa
+SGP,High income,Asia
+SLB,Lower-middle income,Oceania
+SLE,Low income,Africa
+SLV,Lower-middle income,North America
+SMR,High income,Europe
+SOM,Low income,Africa
+SRB,Upper-middle income,Europe
+SSD,Low income,Africa
+STP,Lower-middle income,Africa
+SUR,Upper-middle income,South America
+SVK,High income,Europe
+SVN,High income,Europe
+SWE,High income,Europe
+SWZ,Lower-middle income,Africa
+SXM,High income,North America
+SYC,High income,Africa
+SYR,Low income,Asia
+TCA,High income,North America
+TCD,Low income,Africa
+TGO,Low income,Africa
+THA,Upper-middle income,Asia
+TJK,Lower-middle income,Asia
+TKM,Upper-middle income,Asia
+TLS,Lower-middle income,Asia
+TON,Upper-middle income,Oceania
+TTO,High income,North America
+TUN,Lower-middle income,Africa
+TUR,Upper-middle income,Asia
+TUV,Upper-middle income,Oceania
+TZA,Lower-middle income,Africa
+UGA,Low income,Africa
+UKR,Lower-middle income,Europe
+URY,High income,South America
+USA,High income,North America
+UZB,Lower-middle income,Asia
+VCT,Upper-middle income,North America
+VEN,Upper-middle income,South America
+VGB,High income,North America
+VIR,High income,North America
+VNM,Lower-middle income,Asia
+VUT,Lower-middle income,Oceania
+WSM,Lower-middle income,Oceania
+YEM,Low income,Asia
+ZAF,Upper-middle income,Africa
+ZMB,Lower-middle income,Africa
+ZWE,Lower-middle income,Africa
